@@ -1,5 +1,5 @@
 """
-Description: This is short story that i wrote
+Description: This program generates a Mad Libs story by asking the user for various inputs such as adjectives, nouns, and verbs.
 Author: Farimah Nourpanah
 """
 
