@@ -7,15 +7,15 @@ Author: Farimah Nourpanah
 
 STORY = "This morning %s woke up feeling %s. 'It is going to be a %s day!' Outside, a bunch of %s s were protesting to keep %s in stores. They began to %s to the rhythm of the %s, which made all the %s s very %s. Concerned, %s texted %s, who flew %s to %s and dropped %s in a puddle of frozen %s. %s woke up in the year %s, in a world where %s s ruled the world."
 print "Mad Libs has started"
-#Asking the user name
+#asking user for there name
 name = raw_input("Enter a name: ")
-#Asking user for three adjective
+#asking user for three adjective
 adj1 = raw_input("Enter an adjective: ")
 adj2 = raw_input("Enter a second adjective: ")
 adj3 = raw_input("Enter a third adjective: ")
 #Asking user for a verb
 verb = raw_input("Enter a verb: ")
-#Asking for two nouns
+#asking user for two nouns
 noun1 = raw_input("Enter an noun: ")
 noun2 = raw_input("Enter a second noun: ")
 
